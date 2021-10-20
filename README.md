@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @himanshuRajNeosoft
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Himanshu Raj
+- 👀 I’m interested in android
+- 🌱 I’m currently learning kotlin, android, much more
+- 💞️ I’m looking to collaborate on anywhere litrally
+- 📫 How to reach me @himanshuRajNeosoft
 
 <!---
 himanshuRajNeosoft/himanshuRajNeosoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
